@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**CoreenCooper/coreencooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+## Image
+![cat](https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg)
