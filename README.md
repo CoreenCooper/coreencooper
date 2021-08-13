@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 
 ## Image
 ![cat](https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg)
+
+## GIF
+![apple stuff](https://github.com/CoreenCooper/coreencooper/blob/main/assets/alexPaul.gif)
