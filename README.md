@@ -24,8 +24,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoreenCooper&show_icons=true&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CoreenCooper&show_icons=true&theme=dracula)  
+ 
 
  
